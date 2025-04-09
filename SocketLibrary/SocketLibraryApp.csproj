@@ -7,9 +7,7 @@
   </PropertyGroup>
 
   <ItemGroup>
-    <Reference Include="SocketLibraryApp">
-      <HintPath>bin\Debug\net8.0\SocketLibraryApp.dll</HintPath>
-    </Reference>
+   
   </ItemGroup>
 
 </Project>

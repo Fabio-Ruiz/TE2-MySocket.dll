@@ -33,3 +33,15 @@ C:\Users\Javier\OneDrive\Documentos\GitHub\Tarea 2 Datos 1\TE2-MySocket.dll\Sock
 C:\Users\Javier\OneDrive\Documentos\GitHub\Tarea 2 Datos 1\TE2-MySocket.dll\SocketLibrary\obj\Debug\net8.0\ref\SocketLibraryApp.dll
 C:\Users\Javier\OneDrive\Documentos\GitHub\Tarea 2 Datos 1\TE2-MySocket.dll\SocketLibrary\obj\Debug\net8.0\SocketLibraryApp.csproj.AssemblyReference.cache
 C:\Users\Javier\OneDrive\Documentos\GitHub\Tarea 2 Datos 1\TE2-MySocket.dll\SocketLibrary\obj\Debug\net8.0\SocketLi.6691BFA2.Up2Date
+C:\Users\Home\Documents\GitHub\TE2-MySocket.dll\SocketLibrary\bin\Debug\net8.0\SocketLibraryApp.deps.json
+C:\Users\Home\Documents\GitHub\TE2-MySocket.dll\SocketLibrary\bin\Debug\net8.0\SocketLibraryApp.dll
+C:\Users\Home\Documents\GitHub\TE2-MySocket.dll\SocketLibrary\bin\Debug\net8.0\SocketLibraryApp.pdb
+C:\Users\Home\Documents\GitHub\TE2-MySocket.dll\SocketLibrary\obj\Debug\net8.0\SocketLibraryApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Home\Documents\GitHub\TE2-MySocket.dll\SocketLibrary\obj\Debug\net8.0\SocketLibraryApp.AssemblyInfoInputs.cache
+C:\Users\Home\Documents\GitHub\TE2-MySocket.dll\SocketLibrary\obj\Debug\net8.0\SocketLibraryApp.AssemblyInfo.cs
+C:\Users\Home\Documents\GitHub\TE2-MySocket.dll\SocketLibrary\obj\Debug\net8.0\SocketLibraryApp.csproj.CoreCompileInputs.cache
+C:\Users\Home\Documents\GitHub\TE2-MySocket.dll\SocketLibrary\obj\Debug\net8.0\SocketLibraryApp.sourcelink.json
+C:\Users\Home\Documents\GitHub\TE2-MySocket.dll\SocketLibrary\obj\Debug\net8.0\SocketLibraryApp.dll
+C:\Users\Home\Documents\GitHub\TE2-MySocket.dll\SocketLibrary\obj\Debug\net8.0\refint\SocketLibraryApp.dll
+C:\Users\Home\Documents\GitHub\TE2-MySocket.dll\SocketLibrary\obj\Debug\net8.0\SocketLibraryApp.pdb
+C:\Users\Home\Documents\GitHub\TE2-MySocket.dll\SocketLibrary\obj\Debug\net8.0\ref\SocketLibraryApp.dll
