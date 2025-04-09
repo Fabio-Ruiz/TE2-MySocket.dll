@@ -16,7 +16,7 @@
 
 ### **Manual** (Compilar desde fuente)  
 1. Clonar el repositorio  
-2. Agrega el proyecto como referencia  
+2. Agregar el proyecto como referencia  
 
 ---
 
