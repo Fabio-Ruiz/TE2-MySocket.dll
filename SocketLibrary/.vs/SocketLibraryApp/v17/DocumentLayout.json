@@ -1,0 +1,133 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Javier\\OneDrive\\Documentos\\GitHub\\Tarea 2 Datos 1\\TE2-MySocket.dll\\SocketLibrary\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4AF693D0-CCB8-4F1A-A258-E29B7A981B57}|SocketLibraryApp.csproj|c:\\users\\javier\\onedrive\\documentos\\github\\tarea 2 datos 1\\te2-mysocket.dll\\socketlibrary\\tcpsenderservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4AF693D0-CCB8-4F1A-A258-E29B7A981B57}|SocketLibraryApp.csproj|solutionrelative:tcpsenderservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4AF693D0-CCB8-4F1A-A258-E29B7A981B57}|SocketLibraryApp.csproj|c:\\users\\javier\\onedrive\\documentos\\github\\tarea 2 datos 1\\te2-mysocket.dll\\socketlibrary\\tcplistenerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4AF693D0-CCB8-4F1A-A258-E29B7A981B57}|SocketLibraryApp.csproj|solutionrelative:tcplistenerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4AF693D0-CCB8-4F1A-A258-E29B7A981B57}|SocketLibraryApp.csproj|c:\\users\\javier\\onedrive\\documentos\\github\\tarea 2 datos 1\\te2-mysocket.dll\\socketlibrary\\socketlibraryfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4AF693D0-CCB8-4F1A-A258-E29B7A981B57}|SocketLibraryApp.csproj|solutionrelative:socketlibraryfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4AF693D0-CCB8-4F1A-A258-E29B7A981B57}|SocketLibraryApp.csproj|c:\\users\\javier\\onedrive\\documentos\\github\\tarea 2 datos 1\\te2-mysocket.dll\\socketlibrary\\socketlibrary.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4AF693D0-CCB8-4F1A-A258-E29B7A981B57}|SocketLibraryApp.csproj|solutionrelative:socketlibrary.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4AF693D0-CCB8-4F1A-A258-E29B7A981B57}|SocketLibraryApp.csproj|c:\\users\\javier\\onedrive\\documentos\\github\\tarea 2 datos 1\\te2-mysocket.dll\\socketlibrary\\retrypolicy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4AF693D0-CCB8-4F1A-A258-E29B7A981B57}|SocketLibraryApp.csproj|solutionrelative:retrypolicy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4AF693D0-CCB8-4F1A-A258-E29B7A981B57}|SocketLibraryApp.csproj|c:\\users\\javier\\onedrive\\documentos\\github\\tarea 2 datos 1\\te2-mysocket.dll\\socketlibrary\\isocketsender.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4AF693D0-CCB8-4F1A-A258-E29B7A981B57}|SocketLibraryApp.csproj|solutionrelative:isocketsender.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4AF693D0-CCB8-4F1A-A258-E29B7A981B57}|SocketLibraryApp.csproj|c:\\users\\javier\\onedrive\\documentos\\github\\tarea 2 datos 1\\te2-mysocket.dll\\socketlibrary\\isocketlistener.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4AF693D0-CCB8-4F1A-A258-E29B7A981B57}|SocketLibraryApp.csproj|solutionrelative:isocketlistener.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "SocketLibraryFactory.cs",
+              "DocumentMoniker": "C:\\Users\\Javier\\OneDrive\\Documentos\\GitHub\\Tarea 2 Datos 1\\TE2-MySocket.dll\\SocketLibrary\\SocketLibraryFactory.cs",
+              "RelativeDocumentMoniker": "SocketLibraryFactory.cs",
+              "ToolTip": "C:\\Users\\Javier\\OneDrive\\Documentos\\GitHub\\Tarea 2 Datos 1\\TE2-MySocket.dll\\SocketLibrary\\SocketLibraryFactory.cs",
+              "RelativeToolTip": "SocketLibraryFactory.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAABuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-09T06:39:09.077Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "TcpListenerService.cs",
+              "DocumentMoniker": "C:\\Users\\Javier\\OneDrive\\Documentos\\GitHub\\Tarea 2 Datos 1\\TE2-MySocket.dll\\SocketLibrary\\TcpListenerService.cs",
+              "RelativeDocumentMoniker": "TcpListenerService.cs",
+              "ToolTip": "C:\\Users\\Javier\\OneDrive\\Documentos\\GitHub\\Tarea 2 Datos 1\\TE2-MySocket.dll\\SocketLibrary\\TcpListenerService.cs",
+              "RelativeToolTip": "TcpListenerService.cs",
+              "ViewState": "AQIAADIAAAAAAAAAAAAgwEIAAAA5AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-09T06:39:21.728Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "TcpSenderService.cs",
+              "DocumentMoniker": "C:\\Users\\Javier\\OneDrive\\Documentos\\GitHub\\Tarea 2 Datos 1\\TE2-MySocket.dll\\SocketLibrary\\TcpSenderService.cs",
+              "RelativeDocumentMoniker": "TcpSenderService.cs",
+              "ToolTip": "C:\\Users\\Javier\\OneDrive\\Documentos\\GitHub\\Tarea 2 Datos 1\\TE2-MySocket.dll\\SocketLibrary\\TcpSenderService.cs",
+              "RelativeToolTip": "TcpSenderService.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAiwBEAAABJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-09T06:39:33.824Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "SocketLibrary.cs",
+              "DocumentMoniker": "C:\\Users\\Javier\\OneDrive\\Documentos\\GitHub\\Tarea 2 Datos 1\\TE2-MySocket.dll\\SocketLibrary\\SocketLibrary.cs",
+              "RelativeDocumentMoniker": "SocketLibrary.cs",
+              "ToolTip": "C:\\Users\\Javier\\OneDrive\\Documentos\\GitHub\\Tarea 2 Datos 1\\TE2-MySocket.dll\\SocketLibrary\\SocketLibrary.cs",
+              "RelativeToolTip": "SocketLibrary.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAAwCcAAAA6AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-09T06:38:54.215Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "RetryPolicy.cs",
+              "DocumentMoniker": "C:\\Users\\Javier\\OneDrive\\Documentos\\GitHub\\Tarea 2 Datos 1\\TE2-MySocket.dll\\SocketLibrary\\RetryPolicy.cs",
+              "RelativeDocumentMoniker": "RetryPolicy.cs",
+              "ToolTip": "C:\\Users\\Javier\\OneDrive\\Documentos\\GitHub\\Tarea 2 Datos 1\\TE2-MySocket.dll\\SocketLibrary\\RetryPolicy.cs",
+              "RelativeToolTip": "RetryPolicy.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAcwB4AAABDAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-09T06:38:42.878Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ISocketSender.cs",
+              "DocumentMoniker": "C:\\Users\\Javier\\OneDrive\\Documentos\\GitHub\\Tarea 2 Datos 1\\TE2-MySocket.dll\\SocketLibrary\\ISocketSender.cs",
+              "RelativeDocumentMoniker": "ISocketSender.cs",
+              "ToolTip": "C:\\Users\\Javier\\OneDrive\\Documentos\\GitHub\\Tarea 2 Datos 1\\TE2-MySocket.dll\\SocketLibrary\\ISocketSender.cs",
+              "RelativeToolTip": "ISocketSender.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAA2AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-09T06:38:02.635Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ISocketListener.cs",
+              "DocumentMoniker": "C:\\Users\\Javier\\OneDrive\\Documentos\\GitHub\\Tarea 2 Datos 1\\TE2-MySocket.dll\\SocketLibrary\\ISocketListener.cs",
+              "RelativeDocumentMoniker": "ISocketListener.cs",
+              "ToolTip": "C:\\Users\\Javier\\OneDrive\\Documentos\\GitHub\\Tarea 2 Datos 1\\TE2-MySocket.dll\\SocketLibrary\\ISocketListener.cs",
+              "RelativeToolTip": "ISocketListener.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-09T06:37:30.396Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

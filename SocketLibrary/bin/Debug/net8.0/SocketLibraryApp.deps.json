@@ -5,19 +5,3 @@
   },
   "compilationOptions": {},
   "targets": {
-    ".NETCoreApp,Version=v8.0": {
-      "SocketLibraryApp/1.0.0": {
-        "runtime": {
-          "SocketLibraryApp.dll": {}
-        }
-      }
-    }
-  },
-  "libraries": {
-    "SocketLibraryApp/1.0.0": {
-      "type": "project",
-      "serviceable": false,
-      "sha512": ""
-    }
-  }
-}

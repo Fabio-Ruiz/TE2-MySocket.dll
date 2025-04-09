@@ -6,13 +6,13 @@ public class RetryPolicy
 {
     private int _maxRetries;
     private TimeSpan _delay;
-
+    // Clase que implementa una política de reintentos para operaciones fallidas
     public RetryPolicy(int maxRetries, TimeSpan delay)
     {
-        _maxRetries = maxRetries;
-        _delay = delay;
+        _maxRetries = maxRetries; // Número máximo de reintentos
+        _delay = delay; // Tiempo de espera entre reintentos
     }
-
+    // Intenta ejecutar una acción y aplica la política de reintentos si falla
     public bool TryAction(Action action)
     {
         int attempts = 0;
@@ -20,15 +20,15 @@ public class RetryPolicy
         {
             try
             {
-                action();
-                return true;
+                action(); // Ejecuta la acción
+                return true; // Retorna true si tuvo éxito
             }
             catch (Exception ex)
             {
                 attempts++;
                 Console.WriteLine($"Intento {attempts} fallido: {ex.Message}");
                 if (attempts >= _maxRetries) return false;
-                Thread.Sleep(_delay);
+                Thread.Sleep(_delay); // Espera antes de reintentar
             }
         }
         return false;

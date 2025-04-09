@@ -2,7 +2,7 @@
 using System;
 using System.Net.Sockets;
 using System.Text;
-
+// Implementación concreta de ISocketSender usando TCP
 public class TcpSenderService : ISocketSender
 {
     public void SendMessage(string ip, int port, string message)
@@ -15,8 +15,8 @@ public class TcpSenderService : ISocketSender
                 client.Connect(ip, port);
                 var stream = client.GetStream();
                 byte[] buffer = Encoding.UTF8.GetBytes(message);
-                stream.Write(buffer, 0, buffer.Length);
-            }
+                stream.Write(buffer, 0, buffer.Length);// Envía los datos
+            } 
         }
         catch (TimeoutException)
         {
