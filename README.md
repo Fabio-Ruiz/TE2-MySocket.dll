@@ -1,4 +1,6 @@
 # **SocketLibraryApp** - Biblioteca de Comunicación por Sockets  
+**Autores**: Jose Fabio Ruiz Morales
+             Javier Hernández Castillo
 
 ---
 
