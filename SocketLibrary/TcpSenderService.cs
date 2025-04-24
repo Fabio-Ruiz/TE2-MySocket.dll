@@ -1,22 +1,22 @@
-
 using System;
 using System.Net.Sockets;
 using System.Text;
+using System.Threading.Tasks;
 // Implementación concreta de ISocketSender usando TCP
 public class TcpSenderService : ISocketSender
 {
-    public void SendMessage(string ip, int port, string message)
+    public async Task SendMessageAsync(string ip, int port, string message)
     {
         try
         {
             using (var client = new TcpClient())
             {
                 client.SendTimeout = 5000; // Timeout de envío (5 segundos)
-                client.Connect(ip, port);
+                await client.ConnectAsync(ip, port); // Conexión asincrónica
                 var stream = client.GetStream();
                 byte[] buffer = Encoding.UTF8.GetBytes(message);
-                stream.Write(buffer, 0, buffer.Length);// Envía los datos
-            } 
+                await stream.WriteAsync(buffer, 0, buffer.Length); // Envío asincrónico
+            }
         }
         catch (TimeoutException)
         {

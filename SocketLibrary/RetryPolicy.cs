@@ -1,6 +1,6 @@
-
 using System;
 using System.Threading;
+using System.Threading.Tasks;
 
 public class RetryPolicy
 {
@@ -13,14 +13,14 @@ public class RetryPolicy
         _delay = delay; // Tiempo de espera entre reintentos
     }
     // Intenta ejecutar una acción y aplica la política de reintentos si falla
-    public bool TryAction(Action action)
+    public async Task<bool> TryActionAsync(Func<Task> action)
     {
         int attempts = 0;
         while (attempts < _maxRetries)
         {
             try
             {
-                action(); // Ejecuta la acción
+                await action(); // Ejecuta la acción asincrónica
                 return true; // Retorna true si tuvo éxito
             }
             catch (Exception ex)
@@ -28,7 +28,7 @@ public class RetryPolicy
                 attempts++;
                 Console.WriteLine($"Intento {attempts} fallido: {ex.Message}");
                 if (attempts >= _maxRetries) return false;
-                Thread.Sleep(_delay); // Espera antes de reintentar
+                await Task.Delay(_delay); // Espera antes de reintentar asincrónicamente
             }
         }
         return false;

@@ -1,8 +1,9 @@
 {
   "ExpandedNodes": [
     "",
+    "\\PruebadeSockets",
     "\\SocketLibrary"
   ],
-  "SelectedNode": "\\SocketLibrary\\SocketLibraryApp.csproj",
+  "SelectedNode": "\\PruebadeSockets\\PruebadeSockets.csproj",
   "PreviewInSolutionExplorer": false
 }

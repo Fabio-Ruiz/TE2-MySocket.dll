@@ -1,3 +1,4 @@
+
 # **SocketLibraryApp** - Biblioteca de Comunicación por Sockets  
 **Autores**: Jose Fabio Ruiz Morales y Javier Hernández Castillo
 
@@ -58,6 +59,19 @@ public class MySocketServer : SocketLibrary
 }
 ```
 
+### **3. Mensaje de Consola al Iniciar el Servidor**  
+Cuando el servidor comienza a escuchar, se mostrará un mensaje indicando que está escuchando en la dirección y puerto especificados.
+
+```csharp
+// Iniciar el servidor
+await socketLibrary.StartListeningAsync(serverIp, serverPort);
+
+// Mostrar en consola que el servidor está escuchando
+Console.WriteLine($"Servidor escuchando en {serverIp}:{serverPort}...");
+```
+
+Este mensaje aparece justo después de que el servidor comienza a escuchar en el puerto y la IP especificados.
+
 ---
 
 ## **Configuración Avanzada**  
@@ -99,3 +113,8 @@ catch (SocketException ex)
 
 ---
 
+## **Notas**  
+- La biblioteca está diseñada para ser flexible y fácil de usar, con un enfoque en la simplicidad. El código de usuario no necesita modificar la lógica interna de la biblioteca para que funcione correctamente.
+- Asegúrese de que el puerto que usa el servidor no esté bloqueado por un firewall y de que ambos, cliente y servidor, estén corriendo en el mismo entorno de red.
+
+---
