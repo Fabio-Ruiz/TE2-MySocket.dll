@@ -17,7 +17,8 @@
 
 ### **Manual** (Compilar desde fuente)  
 1. Clonar el repositorio  
-2. Agregar el proyecto como referencia  
+2. Agregar "SocketLibraryApp.dll" al proyecto como referencia
+3. La biblioteca compilada que debe agregarse como referencia se encuntra en la siguiente ruta: TE2-MySocket.dll\SocketLibrary\bin\Debug\net8.0\SocketLibraryApp.dll
 
 ---
 
